@@ -1,1 +1,1 @@
-# py1010_prosjektoppgave
+Dette er prosjektmappa mi for prosjektoppgave i PY1010
